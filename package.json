@@ -1,0 +1,26 @@
+{
+  "name": "angular2-smart-table",
+  "version": "2.0.9",
+  "description": "Angular 2 Smart Table",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj-fiorex/angular2-smart-table"
+  },
+  "author": "dj-fiorex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dj-fiorex/angular2-smart-table/issues"
+  },
+  "homepage": "https://github.com/dj-fiorex/angular2-smart-table#readme",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0 || ^13.0.0",
+    "@angular/core": "^12.2.0 || ^13.0.0",
+    "@angular/forms": "~12.2.0 || ^13.0.0",
+    "angular2-multiselect-dropdown": "~5.0.4",
+    "lodash-es": "4.17.21",
+    "ng2-completer": "^9.0.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
